@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MGArrayExtensions"
-  s.version          = "0.0.4"
+  s.version          = "0.0.5"
   s.license          = 'Apache License, Version 2.0'
   s.summary          = "ArrayExtensions"
   s.description      = "ArrayExtensionsArrayExtensionsArrayExtensionsArrayExtensions"
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.requires_arc = true
 
-  s.source_files = "MGArrayExtensions" ,"Sources/*.swift"
+  s.source_files  = "MGArrayExtensions/Sources", "Classes/**/*.swift"
 end
