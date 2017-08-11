@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version          = "0.0.1"
   s.license          = 'Apache License, Version 2.0'
   s.summary          = "ArrayExtensions"
-  s.description      = "Array"
+  s.description      = "ArrayExtensionsArrayExtensionsArrayExtensionsArrayExtensions"
   s.homepage         = "https://github.com/mgzf/MGArrayExtensions"
 
   s.author           = { "Harly" => "magic_harly@hotmail.com" }
