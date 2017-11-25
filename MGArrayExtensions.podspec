@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MGArrayExtensions"
-  s.version          = "0.0.6"
+  s.version          = "1.0.0"
   s.license          = 'Apache License, Version 2.0'
   s.summary          = "ArrayExtensions"
   s.description      = "ArrayExtensionsArrayExtensionsArrayExtensionsArrayExtensions"
